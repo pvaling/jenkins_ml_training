@@ -7,3 +7,5 @@ I want to make centralized compute cluster for machine learning training jobs ba
 - Requirements management flexibility
 - Code security
 - Dataset security
+
+![alt text]('Untitled Diagram.drawio.png')
