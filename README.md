@@ -8,4 +8,4 @@ I want to make centralized compute cluster for machine learning training jobs ba
 - Code security
 - Dataset security
 
-![Alt](Untitled Diagram.drawio.png)
+![Alt](/Untitled Diagram.drawio.png)
